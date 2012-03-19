@@ -1,0 +1,3 @@
+= Chosen select boxes plugin
+
+Replaces all select boxes with the class "chzn-select" with chosen select boxes
