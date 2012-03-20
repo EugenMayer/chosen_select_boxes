@@ -7,5 +7,5 @@ Redmine::Plugin.register :chosen_select_boxes do
   author 'Florian Pommerening'
   description 'Replaces all select boxes with the class "chzn-select" with chosen select boxes'
   version '0.0.1'
-  url 'https://bugtracking.kontextwork.de/issues/734'
+  url 'https://github.com/EugenMayer/ChosenSelectBoxes'
 end

@@ -1,7 +1,9 @@
-// do not access this with $("...")
+// do not access jQuery with $("...")
 // See http://codeimpossible.com/2010/01/13/solving-document-ready-is-not-a-function-and-other-problems/
 jQuery(document).ready(function(){
     jQuery(".chzn-select").chosen();
+
+    // HACK fix some css settings changed, e.g. in top-menu-items should be done in the css files instead
     jQuery(".chzn-container").css({
         'margin-bottom': '4px',
         'margin-right': '15px',

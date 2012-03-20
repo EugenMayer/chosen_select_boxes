@@ -1,3 +1,24 @@
-= Chosen select boxes plugin
+= Chiliproject/Redmine Chosen Select Boxes Plugin
 
-Replaces all select boxes with the class "chzn-select" with chosen select boxes
+Replaces all select boxes with the class "chzn-select" with chosen select boxes. This plugin should be used in
+connection with other plugins or patches that change the class of select boxes to chzn-select or add new select boxes.
+
+== Getting the plugin
+
+A copy of the plugin can be downloaded from {GitHub}[https://github.com/EugenMayer/ChosenSelectBoxes]
+
+
+== Installation and Setup
+
+1. Make sure the plugin is installed in +vendor/plugins/chosen_select_boxes+
+2. Restart your Chiliproject/Redmine web servers (e.g. mongrel, thin, mod_rails)
+3. Install other plugins or patches that change the class of select boxes to chzn-select or add new select boxes.
+4. That's it
+
+== License
+
+This plugin is licensed under the GNU AGPL v3. See COPYRIGHT.txt and AGPL.txt for details.
+
+== Sponsoring
+
+The development of this plugin was sponsored by {KontextWork}[http://kontextwork.de]
