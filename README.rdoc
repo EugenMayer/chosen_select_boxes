@@ -13,6 +13,7 @@ A copy of the plugin can be downloaded from {GitHub}[https://github.com/EugenMay
 1. Make sure the plugin is installed in +vendor/plugins/chosen_select_boxes+
 2. Restart your Chiliproject/Redmine web servers (e.g. mongrel, thin, mod_rails)
 3. Install other plugins or patches that change the class of select boxes to chzn-select or add new select boxes.
+   For example the {Project search NG plugin}[https://github.com/EugenMayer/projectselectng]
 4. That's it
 
 == License
