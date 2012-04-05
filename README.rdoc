@@ -5,7 +5,7 @@ connection with other plugins or patches that change the class of select boxes t
 
 == Getting the plugin
 
-A copy of the plugin can be downloaded from {GitHub}[https://github.com/EugenMayer/ChosenSelectBoxes]
+A copy of the plugin can be downloaded from {GitHub}[https://github.com/EugenMayer/chosen_select_boxes]
 
 
 == Installation and Setup
